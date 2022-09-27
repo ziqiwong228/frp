@@ -1,4 +1,4 @@
-## Frogger
+# Frogger
 
 In this project, we will create the [classic Frogger Arcade Game](https://www.youtube.com/watch?v=l9fO-YuWPSk) using Functional Reactive Programming (FRP) techniques. Programs will be implemented in TypeScript and will use RxJS Observable streams to handle animation, user interaction, and other similar stream behaviours. See [spec](https://github.com/ziqiwong228/frp/blob/main/spec.pdf) for project specifications.
 
