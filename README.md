@@ -1,4 +1,6 @@
-# Code running
+## Frogger
+
+In this assignment, we will use the RxJS Observable stream to create the [classic Frogger Arcade Game]() in an SVG image. See
 
 All of your changes, code, and game files should be in the src folder.
 
